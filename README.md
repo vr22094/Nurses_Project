@@ -15,8 +15,9 @@ This repository contains an assignment examining the prediction of stress levels
      pip install -r requirements.txt
      ```
 
-3. **Model Training & Evaluation**:
+2. **Model Training & Evaluation**:
    - Use the modeling notebooks in the `Nurses-Analysis.ipynb` to train and evaluate models.
+3. **Dataset Source**: https://datadryad.org/stash/dataset/doi:10.5061/dryad.5hqbzkh6f
 
 ## Contribution
 
