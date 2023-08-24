@@ -1,4 +1,4 @@
-# Stress Prediction in Nurses during Covid Times: A Case Study
+# Stress Prediction in Nurses during Covid Times
 
 ## Overview
 
